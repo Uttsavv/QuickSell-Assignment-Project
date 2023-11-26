@@ -1,0 +1,6 @@
+.bar {
+  display: flex;
+  align-items: center;
+  min-height: 70px;
+  position: relative;
+}
