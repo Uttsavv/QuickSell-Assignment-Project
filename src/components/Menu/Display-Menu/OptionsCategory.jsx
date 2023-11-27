@@ -8,7 +8,7 @@ const OptionsCategory = ({ label, options, selectedValue, onSelect }) => {
         <select
           value={selectedValue}
           onChange={(e) => onSelect(e.target.value)}
-          className="selector-input"
+          className="selector-input white-background"
         >
           {options.map((opt) => (
             <option key={opt} value={opt}>
