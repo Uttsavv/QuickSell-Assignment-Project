@@ -1,6 +1,6 @@
 # Simple KanBan based on data from API
 
-Deployed Link -> [[https://uttsavv.github.io/QuickSell-Assignment-Project/]]
+Deployed Link -> [https://uttsavv.github.io/Simple-KanBan/]
 
 Future Additions:
 i) Drag and Drop
